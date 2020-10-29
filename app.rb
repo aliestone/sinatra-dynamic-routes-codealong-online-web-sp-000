@@ -9,8 +9,6 @@ class App < Sinatra::Base
 
   get '/goodbye' do
     "Goodbye"
-  end 
-
   end
 
   # This is a sample dynamic route.
